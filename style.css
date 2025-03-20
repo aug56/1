@@ -1,0 +1,319 @@
+/*STARTING OF DARKMODE CSS*/
+.darkmode .body{
+	background-color: black;
+}
+.darkmode .nav{
+	background-color: #fff;
+}
+.darkmode .dash a{
+	color: black;
+	font-weight: bold;
+}
+.darkmode ul li a{
+   color: black;
+   font-weight: bold;
+}
+
+.darkmode .injiza_button{
+	background-color: black;
+}
+
+.darkmode .total1{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+.darkmode .total2{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+
+.darkmode .total3{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+.darkmode .total4{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+.darkmode .total5{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+.darkmode .total6{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+
+.darkmode table{
+	background-color: white;
+}
+.darkmode .update{
+	background-color: black;
+}
+.darkmode .delete{
+	background-color: black;
+}
+/*ENDING OF DARKMODE CSS*/
+
+
+
+.nav{
+background-color: #000033;
+height: 101.2%;
+width:23.6%;
+margin-top: -0.6%;
+margin-left: -0.6%;
+}
+.dash{
+color:white;
+font-size: 45px;
+font-family: monospace;
+}
+.darkmode .intro{
+	color: white;
+}
+ul{
+list-style: none;
+}
+li{
+text-decoration: none;
+font-size: 19px;
+color: white;
+font-family: times new romans;
+padding: 14px 16px;
+display: flex;
+}
+a{
+text-decoration: none;
+color: white;
+}
+.body{
+background-color:#ccccb3;
+height: 680px;
+width:77.5%;
+margin-left: 23%;
+margin-top: -680px;
+}
+
+.total1{
+height: 22%;
+width: 31%;
+background-color: #00331a;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 12%;
+margin-top: 50px;
+border-radius: 7px;
+}
+.total2{
+height: 22%;
+width: 31%;
+background-color: #005266;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 60px;
+margin-top: 50px;
+border-radius: 7px;
+}
+.total3{
+height: 22%;
+width: 31%;
+background-color: #009999;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 12%;
+margin-top: 50px;
+border-radius: 7px;
+}
+.total4{
+height: 22%;
+width: 31%;
+background-color: #003333;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 60px;
+margin-top: 50px;
+border-radius: 7px;
+}
+.total5{
+height: 22%;
+width: 31%;
+background-color: #223300;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 12%;
+margin-top: 50px;
+border-radius: 7px;
+}
+.total6{
+height: 22%;
+width: 31%;
+background-color: #00b33c;
+color: white;
+font-size:20px;
+font-family: monospace;
+float:left;
+margin-left: 60px;
+margin-top: 50px;
+border-radius: 7px;
+}
+.intro{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+#themeSwitch{
+	height: 40px;
+	width: 40px;
+}
+#themeSwitch svg:last-child{
+   display: none;
+}
+
+.darkmode #themeSwitch svg:first-child{
+	display: none;
+}
+.darkmode #themeSwitch svg:last-child{
+	display: block;
+}
+
+.kumukristu_form{
+background-color: white;
+width:400px;
+height: 550px;
+border-radius: 3px;
+}
+.kumu_input{
+height: 30px;
+width: 60%;
+}
+input[type='text']{
+	height: 30px;
+   width: 60%;
+}
+
+
+.act{
+font-size:20px;
+font-family: monospace;
+}
+
+.acte{
+font-size:25px;
+font-family: monospace;
+font-weight: bold;
+}
+.select{
+height: 30px;
+width: 60%;
+}
+.radio{
+	margin-left: -160px;
+}
+.injiza_button{
+height: 30px;
+width:30%;
+font-weight: bold;
+background-color: #000033;
+color: white;
+border: none;
+border-radius: 3px;
+}
+.injiza_button:hover{
+height: 30px;
+width:30%;
+font-weight: bold;
+background-color: lightgray;
+color: black;
+border: 1px solid black;
+}
+
+.kumaturo_form{
+background-color: white;
+width:400px;
+height: 350px;
+border-radius: 3px;
+}
+.tl{
+	height: 30px;
+    width: 60%;
+}
+
+
+button{
+height: 30px;
+width:30%;
+font-weight: bold;
+}
+
+.intro{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.delete{
+	background-color: #660000;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	width: 80px;
+	height: 25px;
+}
+.update{
+	background-color:  #0f3d0f;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	width: 80px;
+	height: 25px;
+	margin-left: 10px;
+}
+table{
+	background-color: transparent;
+	border: 1px solid black;
+	border-collapse: collapse;
+	color:  #000033;
+}
+
+/*RESPONSIVENESS CSS*/
+
+/*extra small devices(phones,600px and down)*/
+			@media only screen and(max-width: 600px){
+		
+		}
+
+/*small devices(potrait tablets and large phones, 600px and up)*/
+		@media only screen and(min-width: 600px){
+			
+		}
+
+/*medium devices(landscape tablets, 768px and up)*/
+		@media only screen and(min-width: 768px){
+		
+		}
+
+/*large devices(desktops, 992px and up)*/
+		@media only screen and(min-width: 992px){
+		
+		}
+
+/*extra large devices(large laptops and desktops, 1200px and up)*/
+		@media only screen and(min-width: 1200px){
+		
+		}
